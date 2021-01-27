@@ -686,6 +686,28 @@ blockquote {
   bottom: -35px;
   margin-left: 1rem;
 }
+.cid-sniTFX5s53 {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #fe799c;
+}
+.cid-sniTFX5s53 .mbr-section-title {
+  margin-bottom: 0;
+}
+.cid-sniTFX5s53 .mbr-text {
+  opacity: .7;
+  margin: 35px 0 0;
+  font-weight: 500;
+}
+@media (max-width: 767px) {
+  .cid-sniTFX5s53 .dragArea {
+    justify-content: center;
+    flex-direction: column;
+  }
+  .cid-sniTFX5s53 .form-control {
+    margin-bottom: 15px;
+  }
+}
 .cid-s9r1xsQvLA {
   padding-top: 0rem;
   padding-bottom: 0rem;
