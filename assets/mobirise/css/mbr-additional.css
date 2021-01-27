@@ -4696,6 +4696,56 @@ blockquote {
     margin-top: 30px;
   }
 }
+.cid-snj9utdIxy {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/valentine-clip-art-3868484-1920-1920x1438.png");
+}
+.cid-snj9utdIxy .mbr-section-title {
+  margin-bottom: 50px;
+}
+.cid-snj9utdIxy .mbr-section-btn .btn {
+  font-weight: 700;
+  height: 60px;
+}
+.cid-snj9utdIxy .block__image {
+  margin: 70px 0 40px;
+}
+@media (max-width: 991px) {
+  .cid-snj9utdIxy .block__image {
+    margin: 70px 0 20px;
+  }
+}
+.cid-snj9utdIxy .block__image img {
+  width: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.cid-snj9utdIxy .bottom__block {
+  margin-top: 30px;
+  padding: 10px 15px;
+}
+@media (min-width: 992px) {
+  .cid-snj9utdIxy .bottom__block {
+    border-left: 2px solid #e8eaed;
+  }
+}
+.cid-snj9utdIxy .bottom__block:first-child {
+  border-left: none;
+}
+.cid-snj9utdIxy .bottom__text {
+  color: #919dab;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+@media (min-width: 768px) {
+  .cid-snj9utdIxy .bottom__text {
+    margin: 0 25px;
+  }
+}
+.cid-snj9utdIxy .bottom__block:nth-child(4) {
+  border-left: none;
+}
 .cid-s9TYfvhy7W {
   padding-top: 0rem;
   padding-bottom: 1rem;
